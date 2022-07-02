@@ -65,19 +65,12 @@
 - 英雄和步兵的操作手客户端自定义UI界面比较相似. 此文档会一起对他们进行介绍
 - 步兵界面:
 
-<<<<<<< HEAD
 ![Infantry UI](doc/image/Infantry_UI.png)
 
-- 英雄界面
+- 英雄界面:
 
 ![Hero UI](doc/image/Hero_UI.png)
-=======
-![](doc/image/Infantry UI.png)
 
-- 英雄界面
-
-![](doc/image/Hero UI.png)
->>>>>>> 269623d41ae4f57ff7539492f0c2307724752f88
 
 1.屏幕中间瞄准线:
 
